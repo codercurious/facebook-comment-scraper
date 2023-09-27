@@ -1,3 +1,5 @@
+# Facebook comment scraper
+Interested in using this scraper? Get it here: [Facebook comment scraper](https://apify.com/curious_coder/facebook-comment-scraper)
 Scrape comments from any facebook post including posts from a person, page, group member, videos, etc
 
 Extract information such as comment text, author details, time, likes count, replies count, etc
